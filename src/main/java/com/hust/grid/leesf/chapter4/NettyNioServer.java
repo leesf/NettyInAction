@@ -14,7 +14,6 @@ import java.nio.charset.Charset;
 public class NettyNioServer {
 
     public void server(int port) throws Exception {
-        Channel
         final ByteBuf buf = Unpooled.unreleasableBuffer(
                 Unpooled.copiedBuffer("Hi!\r\n", Charset.forName("UTF-8")));
         NioEventLoopGroup group = new NioEventLoopGroup();
