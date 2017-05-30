@@ -1,0 +1,14 @@
+1364217299382 [/192.168.0.38:63182] [/var/log/messages] : Mar 25 13:55:08
+dev-linux dhclient: DHCPREQUEST of 192.168.0.50 on eth2 to 192.168.0.254
+port 67
+1364217299382 [/192.168.0.38:63182] [/var/log/messages] : Mar 25 13:55:08
+dev-linux dhclient: DHCPACK of 192.168.0.50 from 192.168.0.254
+1364217299382 [/192.168.0.38:63182] [/var/log/messages] : Mar 25 13:55:08
+dev-linux dhclient: bound to 192.168.0.50 -- renewal in 270 seconds.
+1364217299382 [/192.168.0.38:63182] [[/var/log/messages] : Mar 25 13:59:38
+dev-linux dhclient: DHCPREQUEST of 192.168.0.50 on eth2 to 192.168.0.254
+port 67
+1364217299382 [/192.168.0.38:63182] [/[/var/log/messages] : Mar 25 13:59:38
+dev-linux dhclient: DHCPACK of 192.168.0.50 from 192.168.0.254
+1364217299382 [/192.168.0.38:63182] [/var/log/messages] : Mar 25 13:59:38
+dev-linux dhclient: bound to 192.168.0.50 -- renewal in 259 seconds.
